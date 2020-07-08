@@ -1,0 +1,3 @@
+[build]
+  command = "npx vitepress build"
+  publish = ".vitepress/dist"

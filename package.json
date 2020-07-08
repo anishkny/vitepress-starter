@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "vitepress": "^0.4.1"
+  }
+}
